@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robcote
-- 👀 I’m interested in ... blockchain developmetn and cybersecurity
-- 🌱 I’m currently learning ... blockchain development 
+- 👀 I’m interested in ... Cybersecurity
+- 🌱 I’m currently learning ... Cybersecurity 
 - 
 
 <!---
